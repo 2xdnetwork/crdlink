@@ -115,7 +115,7 @@
             <div class="row justify-content-center p-b-80">
                 <div class="col-xl-3 col-lg-3 col-md-3">
                     <div class="preview-image-showcase p-r-70 p-r-lg-40 p-r-md-0">                                                
-                       <img src="assets/img/home/daniel.png" style="border-radius: 50%;">       
+                       <img src="assets/img/home/Daniel.png" style="border-radius: 50%;">       
                     </div>
                 </div>
                 <div class="col-xl-9 col-lg-9 col-md-9">
