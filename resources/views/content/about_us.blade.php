@@ -139,7 +139,7 @@
                 <div class="col-xl-9 col-lg-9 col-md-9">
                     <div class="about-us-content">
                         <div class="common-heading tagline-boxed m-b-30">                         
-                            <h2 class="title">Tanmay Dev Andhe | Chief Technology Officer</h2>
+                            <h2 class="title">Vito Dev Andhe | Chief Technology Officer</h2>
                         </div>
                         <p>A seasoned IT professional and strategic planner enhancing the organizational performance through skilled IT alignment with company goals. A creative, hands-on results driven technology professional with extensive programming experience, designing and developing enterprise technology products. A problem-solver with a passion for technology skilled at grasping a big picture, developing and implementing solutions, partnering with business leaders and c-level executives.</p>        
                     </div>
