@@ -37,7 +37,7 @@ echo '<?xml version="1.0" encoding="UTF-8"?>'; ?>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.{{$app->request->get('api_domain')}}//contact-us</loc>
+  <loc>https://www.{{$app->request->get('api_domain')}}/contact-us</loc>
   <lastmod>{{ $date }}</lastmod>
   <priority>0.80</priority>
 </url>

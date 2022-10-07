@@ -59,8 +59,7 @@
                                     <div class="help-block with-errors"></div>
                                 </div>
 
-                                <div class="form-group input-field m-b-20">* In the next step you will be asked to enter your billing information. We use {{$app->request->get('api_name')}} Cloud to process your application.</div>
-
+                                <div class="form-group input-field m-b-20">* In the next step you will be asked to enter your billing information. We use Credit Repair to process your application.</div>
 
                                 <div class="form-group input-field m-b-20">* 30 days free from today, then just $179/month. Cancel yourself under My Account or <a href="contact-us">email support</a>. I also agree to the <a href="terms">terms of service</a> and <a href="privacy">privacy policy</a>.
                                 </div>
