@@ -1,8 +1,9 @@
 <?php //Settings: ****************************************************************
 // $path = $app->request->get("api_path");
 $pathToExtend = '.layouts.home';
-$meta = $app->request->get('api_name'). ' | All Your Marketing Needs In One Place';
-$description = 'We work hard to deliver real results and increase roi for our clients. All Your Marketing Needs In One Place.';
+$meta = $app->request->get('api_name'). ' | Start a Life-Changing Credit Repair Business
+';
+$description = 'We have taught thousands how to build a profitable life-changing credit repair business without any prior experience.';
 //Settings: ******************************************************************* ?> 
 
 @extends($pathToExtend)
