@@ -115,7 +115,7 @@
 <h3 class="p-b-20 p-t-20">Contact Us</h3>
 <p class="p-b-10">If you have any questions about our <a href="privacy">Privacy Policy</a>, the practices of this site, or your dealings with this site, please contact us by sending us an email to: 
 <a href="mailto:{{$app->request->get('api_email')}}">{{$app->request->get('api_email')}}</a> or by mail at: {{$app->request->get('api_name')}} {{$app->request->get('api_address')}}.&nbsp;</p>
-<p>Updated June 12, {{date('Y')}}</p>
+<p>Updated: October 6, {{date('Y')}}</p>
                  </div>
         </div>
     </section>
